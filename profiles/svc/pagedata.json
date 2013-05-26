@@ -1,0 +1,155 @@
+{
+    "title": "Person Profiles",
+    "header": {
+        "title": "Person Profiles of Organisation X",
+        "paragraphs": [
+            "This page shows the person profiles of everyone in Organisation X.",
+            "Our motto is simple: <em>Exceeding the average standard</em>.",
+            "We are sure you will agree."
+        ]
+    },
+    "profiles": [
+        {
+            "name": {
+                "first": "Richard",
+                "last": "Branson"
+            },
+            "data": {
+                "image": {
+                    "source": "img/thm/richard-branson.jpg"
+                },
+                "links": [
+                    {
+                        "text": "LinkedIn",
+                        "url": "http://www.linkedin.com/profile/view?id=204068115&authType=name&authToken=mlJ9"
+                    },
+                    {
+                        "text": "website",
+                        "url": "http://www.virgin.com/"
+                    },
+                    {
+                        "text": "email",
+                        "url": "mailto:richard.branson@example.com"
+                    }
+                ],
+                "blurb": [
+                    "first para",
+                    "second para",
+                    "third para"
+                ],
+                "skillsMatrix": [
+                    "Entrepreneur",
+                    "Turtle-necker",
+                    "Smoocher",
+                    "Abseiler"
+                ]
+            }
+        }
+        ,
+        {
+            "name": {
+                "first": "Barack",
+                "last": "Obama"
+            },
+            "data": {
+                "image": {
+                    "source": "img/thm/barack-obama.jpg"
+                },
+                "links": [
+                    {
+                        "text": "LinkedIn",
+                        "url": "http://www.linkedin.com/profile/view?id=11932467"
+                    },
+                    {
+                        "text": "Twitter",
+                        "url": "https://twitter.com/barackobama"
+                    },
+                    {
+                        "text": "website",
+                        "url": "http://www.barackobama.com/"
+                    },
+                    {
+                        "text": "email",
+                        "url": "mailto:barack.obama@example.com"
+                    }
+                ],
+                "blurb": [
+                    "first para",
+                    "second para",
+                    "third para"
+                ],
+                "skillsMatrix": [
+                    "skill 1",
+                    "skill 2",
+                    "skill 3",
+                    "skill 4",
+                    "skill 5",
+                    "skill 6"
+                ]
+            }
+        }
+        ,
+        {
+            "name": {
+                "first": "Marissa",
+                "last": "Mayer"
+            },
+            "data": {
+                "image": {
+                    "source": "img/thm/marissa-mayer.jpg"
+                },
+                "links": [
+                    {
+                        "text": "LinkedIn",
+                        "url": "http://www.linkedin.com/profile/view?id=55365&authType=name&authToken=DR3J"
+                    },
+                    {
+                        "text": "website",
+                        "url": "http://www.yahoo.com/"
+                    },
+                    {
+                        "text": "email",
+                        "url": "mailto:marissa.mayer@example.com"
+                    }
+                ],
+                "blurb": [
+                    "first para",
+                    "second para",
+                    "third para"
+                ],
+                "skillsMatrix": [
+                    "skill 1",
+                    "skill 2",
+                    "skill 3",
+                    "skill 4",
+                    "skill 5",
+                    "skill 6"
+                ]
+            }
+        }
+        ,
+        {
+            "name": {
+                "first": "Hillary",
+                "last": "Clinton"
+            },
+            "data": {
+                "image": {
+                    "source": "img/thm/hillary-clinton.jpg"
+                },
+                "links": [
+                    {
+                        "text": "LinkedIn",
+                        "url": "http://www.linkedin.com/profile/view?id=15890911&authType=name&authToken=-_z2"
+                    }
+                ],
+                "blurb": [
+                    "I was raised in a middle-class family in the middle of America. From that classic suburban childhood in Park Ridge, Illinois, I went on to become one of America's foremost advocates for children and families; an attorney twice voted one of the most influential in America; a First Lady of Arkansas who helped transform the schools; a bestselling author; a First Lady for America who helped transform that role, becoming a champion for health care and families at home and a champion of women's rights and human rights around the world."
+                ],
+                "skillsMatrix": [
+                ]
+            }
+        }
+    ],
+    "footer": "&copy Organisation X 2013"
+}
