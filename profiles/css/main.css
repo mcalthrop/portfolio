@@ -7933,6 +7933,13 @@ li {
 .profile-blurb {
   display: block;
 }
+.profile-blurb p {
+  margin: 3px 0 0 0;
+  line-height: normal;
+}
+.profile-blurb small {
+  font-size: 0.8em;
+}
 .profile-header-container {
   display: block;
 }
@@ -7955,8 +7962,12 @@ li {
   display: block;
   margin: 0;
 }
-.profile-blurb p {
-  margin: 3px 0 0 0;
+.profile-definition .profile-definition-section {
+  font-size: 0.8em;
+  font-weight: normal;
+  color: #999;
+  margin: 12px 0 6px 0;
+  padding: 0;
   line-height: normal;
 }
 .profile-skills-matrix {

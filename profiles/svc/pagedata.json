@@ -3,8 +3,8 @@
     "header": {
         "title": "Person Profiles of Organisation X",
         "paragraphs": [
-            "This page shows the person profiles of everyone in Organisation X.",
-            "Our motto is simple: <em>Exceeding the average standard</em>.",
+            "This page shows the profiles of everyone in Organisation X.",
+            "Our motto is simple: <em>Xceeding the average standard</em>.",
             "We are sure you will agree."
         ]
     },
@@ -21,7 +21,7 @@
                 "links": [
                     {
                         "text": "LinkedIn",
-                        "url": "http://www.linkedin.com/profile/view?id=204068115&authType=name&authToken=mlJ9"
+                        "url": "http://www.linkedin.com/in/rbranson"
                     },
                     {
                         "text": "website",
@@ -33,15 +33,19 @@
                     }
                 ],
                 "blurb": [
-                    "first para",
-                    "second para",
-                    "third para"
+                    "Sir Richard Branson is an iconic and legendary figure within business circles.",
+                    "His Virgin companies span the globe, while his thirst for brand domination and sense of adventure tell a story of an intriguing and thought provoking life sprinkled with danger, high risk tactics &ndash; pushing the boundaries of the possible &ndash; and an all encompassing purpose that is built upon fairness and change.",
+                    "Add to this mix a charismatic persona and an extraordinary business acumen, and you have one of the most well-known and iconic figures of today’s business world. <a href='http://blog.iqmatrix.com/richard-branson' target='_blank'><small>[source]</small></a>"
                 ],
                 "skillsMatrix": [
-                    "Entrepreneur",
-                    "Turtle-necker",
-                    "Smoocher",
-                    "Abseiler"
+                    "Flexible thought",
+                    "Sales skills",
+                    "Public relations",
+                    "Negotiation skills",
+                    "Persuasion skills",
+                    "Leadership skills",
+                    "Good listening skills",
+                    "Good communication skills"
                 ]
             }
         }
@@ -58,7 +62,7 @@
                 "links": [
                     {
                         "text": "LinkedIn",
-                        "url": "http://www.linkedin.com/profile/view?id=11932467"
+                        "url": "http://www.linkedin.com/in/barackobama"
                     },
                     {
                         "text": "Twitter",
@@ -74,17 +78,17 @@
                     }
                 ],
                 "blurb": [
-                    "first para",
-                    "second para",
-                    "third para"
+                    "Barack Obama is undoubtedly one of the greatest influencers of modern times.",
+                    "His accomplishment in going from a relative unknown to the most talked about person on the planet in less than 18 months provides a lot of valuable lessons to anyone marketing a product, a service&hellip; or a person. <a href='http://marketingwizdom.com/archives/1952' target='_blank'><small>[source]</small></a>"
                 ],
                 "skillsMatrix": [
-                    "skill 1",
-                    "skill 2",
-                    "skill 3",
-                    "skill 4",
-                    "skill 5",
-                    "skill 6"
+                    "Trust",
+                    "Presence",
+                    "Credibility",
+                    "Herd instinct",
+                    "Avoiding loss",
+                    "Building commitment",
+                    "Story telling"
                 ]
             }
         }
@@ -113,17 +117,18 @@
                     }
                 ],
                 "blurb": [
-                    "first para",
-                    "second para",
-                    "third para"
+                    "Mayer joined Google in 1999 as its 20th employee &ndash; and its first female engineer &ndash; when the company was just a no-frills search page.",
+                    "Over 13 years at Mountain View, she has become a much-admired figure in the technology world.",
+                    "Unlike some of her former colleagues, Mayer does not have one Google product that is known as hers.",
+                    "Rather, she is present in all major Google services developed over the company's first transformative decade. <a href='http://www.guardian.co.uk/technology/2012/jul/17/google-marissa-mayer-yahoo-profile' target='_blank'><small>[source]</small></a>"
                 ],
                 "skillsMatrix": [
-                    "skill 1",
-                    "skill 2",
-                    "skill 3",
-                    "skill 4",
-                    "skill 5",
-                    "skill 6"
+                    "incredibly smart",
+                    "confident",
+                    "loves finding better ways to do things",
+                    "intolerant of sloppy work",
+                    "makes decisions based on data",
+                    "invented Google AdWords"
                 ]
             }
         }
@@ -144,12 +149,20 @@
                     }
                 ],
                 "blurb": [
-                    "I was raised in a middle-class family in the middle of America. From that classic suburban childhood in Park Ridge, Illinois, I went on to become one of America's foremost advocates for children and families; an attorney twice voted one of the most influential in America; a First Lady of Arkansas who helped transform the schools; a bestselling author; a First Lady for America who helped transform that role, becoming a champion for health care and families at home and a champion of women's rights and human rights around the world."
+                    "Hillary Clinton should have her chance at the presidency in 2016.",
+                    "Not only because a lot of the public would like certain parts of the 1990s back, most of which have gone into serious decline over the past 12 years under two different administrations.",
+                    "Or because Clinton's track record includes true bona fides when it comes to building consensus and bringing opposing sides to the table while standing tough and refusing to give away the farm.",
+                    "She deserves a shot because she possesses three skills crucial to the office of the president: making lemonade out of life's many lemons, learning from her mistakes and taking the heat. <a href='http://www.guardian.co.uk/commentisfree/2012/sep/25/hillary-clinton-deserves-shot-at-presidency' target='_blank'><small>[source]</small></a>"
                 ],
                 "skillsMatrix": [
+                    "tough",
+                    "makes lemonade out of lemons",
+                    "learns from her mistakes",
+                    "takes the heat",
+                    "popular"
                 ]
             }
         }
     ],
-    "footer": "&copy Organisation X 2013"
+    "footer": "&copy; Organisation X 2013 <a href='https://github.com/mcalthrop/portfolio/tree/feature/profiles/profiles' target='_blank'><br/><small>[source code]</small></a>"
 }
