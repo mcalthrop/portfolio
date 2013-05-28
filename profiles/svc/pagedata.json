@@ -164,5 +164,5 @@
             }
         }
     ],
-    "footer": "&copy; Organisation X 2013 <a href='https://github.com/mcalthrop/portfolio/tree/feature/profiles/profiles' target='_blank'><br/><small>[source code]</small></a>"
+    "footer": "&copy; Organisation X 2013 <a href='https://github.com/mcalthrop/portfolio/tree/master/profiles' target='_blank'><br/><small>[source code]</small></a>"
 }
