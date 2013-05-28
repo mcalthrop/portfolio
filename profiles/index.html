@@ -34,12 +34,17 @@
             </span>
 
             <span class="profile-definition">
+
+                {{#if data.blurb}}
                 <h3 class="profile-definition-section">OVERVIEW</h3>
                 <span class="profile-blurb">
                     {{#each data.blurb}}
                     <p>{{{this}}}</p>
                     {{/each}}
                 </span>
+                {{/if}}
+
+                {{#if data.skillsMatrix}}
                 <h3 class="profile-definition-section">SKILLS</h3>
                 <span class="profile-skills-matrix">
                     <ul class="inline">
@@ -48,6 +53,8 @@
                         {{/each}}
                     </ul>
                 </span>
+                {{/if}}
+
             </span>
         </li>
     </script>
